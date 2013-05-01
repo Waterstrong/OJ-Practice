@@ -1,0 +1,5 @@
+在ACM的OJ网站上做题。
+SOJ(SWUST) -- Southwest University of Science and Technology（西南科技大学）
+NYOJ(NYIST) -- 南阳理工
+POJ(PKU) -- 北京大学
+HOJ(HDU) -- 杭州电子科技大学
